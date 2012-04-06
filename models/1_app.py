@@ -1,0 +1,1 @@
+db = DAL('sqlite://produtos.sqlite', check_reserved=['all'])

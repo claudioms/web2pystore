@@ -1,0 +1,7 @@
+timestamp: 2012-04-06T14:22:13.010506
+CREATE TABLE categoria(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name CHAR(512),
+    description CHAR(512)
+);
+success!

@@ -1,0 +1,38 @@
+Web2pytore created for web2py course 
+Credits: http://www.cursodepython.com.br
+By Claudio Souza
+
+* Cadastro de produto (foto, categoria)
+* adm de produtos e categorias
+* adm de clients (auth_users)
+* extra fields (enderecos,etc)
+* emails de confirmacao
+* newsletters
+* vitrine de produtos
+* pagina de produto ( integracao API Twitter)
+* Carrinho de compras
+* fechamento de pedidos
+* email de confirmacao da compra
+* webservice XMLRPC e JSON 
+* busca
+
+# Datamodel
+
+* Produto
+** Categoria
+* Cliente (auth_user) 
+** endereco
+* Pedido
+** Items
+
+# Telas (controller/action)
+* Novo
+* Editar
+* Deletar
+* Exibir
+
+# Suplementares
+
+* Webservices
+* Carrinho de compras
+* Email
